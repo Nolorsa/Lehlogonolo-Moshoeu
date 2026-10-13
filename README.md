@@ -19,25 +19,27 @@ Open to: Graduate roles, internships, and learnerships in IT
 
 ##  Featured Projects
 
-### 🔹 [School-Parental system]
+### School-Parental system
 A centralized web and mobile platform that gives schools, teachers, and parents real-time access to learner attendance, grades, and announcements — replacing paper registers, printed letters, and unverifiable WhatsApp messages with one secure, role-based system. 
 
 **Stack:**  Flutter (mobile) · ASP.NET Core 8 Web API (web) · Supabase (PostgreSQL, Auth, Storage, RLS)  
 **Link:** https://github.com/BRIGHTWEBCRAFTER/School-Parental-System
 
-### 🔹 [Project 2 Name]
-[One sentence description.]  
-**Stack:** [Tech used]  
-🔗 [Repo Link]
+###  [Project 2 Name]
+A secure document management portal where employees upload and manage client documents, clients access shared files, and admins control users via generated access codes — built with a teal, gold, and white theme.
 
-### 🔹 [Project 3 Name]
-[One sentence description.]  
-**Stack:** [Tech used]  
-🔗 [Repo Link]
+**Stack:** C# · ASP.NET Core MVC · Entity Framework Core · ASP.NET Core Identity · SQLite (swap to SQL Server for production) · Razor Views · Bootstrap 5 · HTML/CSS/JS
+**link:**
+
+## Grand Arbre Consulting Website
+A modern, responsive multi-page website for a business consulting firm specializing in business plans, strategy, and financial advisory services.
+
+Stack: HTML5, CSS3, Font Awesome, Google Fonts 
+**Link:** https://grandarbre.co.za/
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
 
@@ -45,11 +47,11 @@ A centralized web and mobile platform that gives schools, teachers, and parents 
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
-- 📧 Email: [your@email.com]
-- 🌐 Portfolio: [yourwebsite.com]
+- LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
+- Email: lehlogonolomoshoeu223@gmail.com/lehlogonolopontsho223@gmail.com
+
 
 ---
 
